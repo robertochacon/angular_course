@@ -1,5 +1,5 @@
 # Dependencias de Node
-**/node_modules/
+*/node_modules/
 
 # Salidas de construcción
 dist/
